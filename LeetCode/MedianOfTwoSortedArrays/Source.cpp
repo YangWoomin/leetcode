@@ -1,5 +1,6 @@
 
 // https://leetcode.com/problems/median-of-two-sorted-arrays/
+// https://izmirprogramming.tistory.com/11
 
 #include <iostream>
 #include <vector>
