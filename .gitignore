@@ -1,7 +1,5 @@
 
+*.user
+Debug/
+Release/
 LeetCode/.vs
-LeetCode/Debug
-LeetCode/Release
-LeetCode/MedianOfTwoSortedArrays/Debug
-LeetCode/MedianOfTwoSortedArrays/Release
-LeetCode/MedianOfTwoSortedArrays/MedianOfTwoSortedArrays.vcxproj.user
